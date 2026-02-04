@@ -1,19 +1,10 @@
-let name = "harsh"
+const year = 2026;
+console.log(year);
 
-let rollNo = 5
+// year = 2027;
+console.log(year);
 
-console.log(name,typeof name)
-console.log(rollNo,typeof rollNo)
+// const year =  2028;
+console.log(year);
 
-let email = "h@gmail.com"
-console.log(email,typeof email)
-
-email = "h1@gmail.com"  
-console.log(email,typeof email)
-
-// let email = "h3@gmail.com"
-console.log(email,typeof email)
-
-let emailPassword;
-console.log(emailPassword)
-console.log(typeof emailPassword)
+// const pascalNumber ;
