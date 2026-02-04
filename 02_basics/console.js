@@ -13,6 +13,7 @@ console.log(console.log("Hi"))
 
 console.error("Something went wrong")
 
+// console.warning("this is warning")
 
 
 const users = [
