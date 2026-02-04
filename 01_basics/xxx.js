@@ -1,10 +1,17 @@
-const year = 2026;
-console.log(year);
+var a = "harsh"
+console.log(a)
 
-// year = 2027;
-console.log(year);
+var a = "harshal"
+console.log(a)
 
-// const year =  2028;
-console.log(year);
+a  = "harshdip"
+console.log(a)
 
-// const pascalNumber ;
+var a ;
+
+
+let radius = 4;
+const pi = 3.14
+
+let area = (pi*radius**2)
+console.log(area)
