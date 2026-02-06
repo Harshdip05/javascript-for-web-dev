@@ -4,6 +4,7 @@
 // A variable is a container used to store data.
 
 let name = "Rahul";
+console.log(name);
 // name → variable
 // "Rahul" → value stored inside variable
 
@@ -24,3 +25,23 @@ console.log(c)
 // const =  block scoped, cannot be reassigned and redeclared
 // let = block scoped, can be resigned but cannot be redeclared
 // var = functional scope, can be reasigned and redeclared
+
+
+// console is an object provided by the browser (and also by Node.js) that lets you see what your code is doing.
+
+
+// Memory is NOT stored in the variable
+// Memory is stored in RAM,
+// and variables only store references (addresses) to that memory.
+
+
+// JavaScript uses two main memory areas:
+        // 1️⃣ Stack Memory
+        // Stores primitive values
+        // Fast
+        // Fixed size
+
+        // 2️⃣ Heap Memory
+        // Stores objects
+        // Dynamic size
+        // Slower than stack
