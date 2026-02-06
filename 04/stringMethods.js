@@ -24,6 +24,7 @@ console.log(name.split(" ").join(" "))
 console.log("hi hi".replace("hi", "hello")); 
 console.log("hi hi".replaceAll("hi", "hello"));
 
+
 // indexOf() / lastIndexOf()    = returnn -1 if not found
 console.log("banana".indexOf("a"));     
 console.log("banana".lastIndexOf("a"));
