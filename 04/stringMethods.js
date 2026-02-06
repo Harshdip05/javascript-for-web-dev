@@ -1,4 +1,5 @@
 // Strings in JS are immutable → methods return new strings.
+// Strings are immutable to improve performance, ensure safety, and allow engine-level optimizations.
 
 let name = "Javascript is good language.";
 
