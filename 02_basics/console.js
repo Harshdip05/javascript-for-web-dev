@@ -24,3 +24,7 @@ console.table(users)    // visualizing structured data
 
 
 console.log()
+
+console.log("hello","world",123)
+
+console.log()
