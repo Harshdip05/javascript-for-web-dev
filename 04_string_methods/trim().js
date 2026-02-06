@@ -15,6 +15,7 @@ console.log(msg.trim())
             // New lines (\n)
 
 
+            
 console.log("   ".trim());       // empty  string
 
 
