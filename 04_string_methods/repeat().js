@@ -5,4 +5,5 @@
         // count → number of times to repeat
         // Must be 0 or a positive number
 
-console.log("*".repeat(15));        
+console.log("*".repeat(15));
+        
