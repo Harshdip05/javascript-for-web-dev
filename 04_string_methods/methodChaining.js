@@ -9,3 +9,4 @@ let msgTrimUpper = msgTrim.toUpperCase()
 console.log(msgTrimUpper)
 
 console.log(msg.trim().toUpperCase())
+
