@@ -31,3 +31,4 @@ console.log("hello".substring(4, 1));
 // JS swaps → substring(1, 4)
 
 console.log("hello".substring(-2))    //treated as 0
+
