@@ -34,3 +34,10 @@ console.log(true==1);
 console.log(true===1);
 // No type coercion
 // Compares value + type
+
+
+
+// ******************
+
+let isPass = "true";
+let isFail = true;
