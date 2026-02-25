@@ -37,3 +37,10 @@ console.log("newNum: ",newNum);
 newNum = ++num;
 console.log("num: ",num);
 console.log("newNum: ",newNum);
+
+
+
+let m = 12;
+console.log(m);
+console.log(m++);
+console.log(++m);
