@@ -7,5 +7,14 @@ function table(number){
 }
 }
 
-table(4)
-table(55)
+// table(4)
+// table(55)
+
+
+function printTable(n){
+    for(let i =n;i<=n*10;i+=n){
+        console.log(i);
+    }
+}
+
+printTable(5)
